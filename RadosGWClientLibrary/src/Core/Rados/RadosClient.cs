@@ -13,11 +13,9 @@ namespace RadosGWClientLibrary.src.Core.Rados
     {
         
         private readonly RadosHttpClient _httpClient;
-        private readonly string _user;
 
-        public RadosClient(RadosCredentials creds, RadosConfig config, string user)
+        public RadosClient(RadosCredentials creds, RadosConfig config)
         {
-            _user = user;
             _httpClient = new RadosHttpClient(creds, config);
         }
 
@@ -32,6 +30,7 @@ namespace RadosGWClientLibrary.src.Core.Rados
             var response = await _httpClient.DeleteAsync($"/{bucketName}");
             return response;
         }
+
 
 
     }
