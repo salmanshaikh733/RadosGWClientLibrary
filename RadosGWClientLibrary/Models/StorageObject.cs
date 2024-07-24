@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RadosGWClientLibrary.Models
 {
-    public class RadosStorageObject
+    public class StorageObject
     {
         public string Id { get; set; }
         public string Name { get; set; }
