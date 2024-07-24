@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sshai\\Source\\Repos\\RadosGWClientLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A241189-383A-4C30-8A59-7D072E0264C6}|RadosGWClientLibrary\\RadosGWClientLibrary.csproj|c:\\users\\sshai\\source\\repos\\radosgwclientlibrary\\radosgwclientlibrary\\models\\radosstorageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A241189-383A-4C30-8A59-7D072E0264C6}|RadosGWClientLibrary\\RadosGWClientLibrary.csproj|solutionrelative:radosgwclientlibrary\\models\\radosstorageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A241189-383A-4C30-8A59-7D072E0264C6}|RadosGWClientLibrary\\RadosGWClientLibrary.csproj|c:\\users\\sshai\\source\\repos\\radosgwclientlibrary\\radosgwclientlibrary\\radosgwclientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A241189-383A-4C30-8A59-7D072E0264C6}|RadosGWClientLibrary\\RadosGWClientLibrary.csproj|solutionrelative:radosgwclientlibrary\\radosgwclientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadosStorageObject.cs",
+              "DocumentMoniker": "C:\\Users\\sshai\\Source\\Repos\\RadosGWClientLibrary\\RadosGWClientLibrary\\Models\\RadosStorageObject.cs",
+              "RelativeDocumentMoniker": "RadosGWClientLibrary\\Models\\RadosStorageObject.cs",
+              "ToolTip": "C:\\Users\\sshai\\Source\\Repos\\RadosGWClientLibrary\\RadosGWClientLibrary\\Models\\RadosStorageObject.cs",
+              "RelativeToolTip": "RadosGWClientLibrary\\Models\\RadosStorageObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:28:44.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadosGWClientLibrary",
+              "DocumentMoniker": "C:\\Users\\sshai\\Source\\Repos\\RadosGWClientLibrary\\RadosGWClientLibrary\\RadosGWClientLibrary.csproj",
+              "RelativeDocumentMoniker": "RadosGWClientLibrary\\RadosGWClientLibrary.csproj",
+              "ToolTip": "C:\\Users\\sshai\\Source\\Repos\\RadosGWClientLibrary\\RadosGWClientLibrary\\RadosGWClientLibrary.csproj",
+              "RelativeToolTip": "RadosGWClientLibrary\\RadosGWClientLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T00:22:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
